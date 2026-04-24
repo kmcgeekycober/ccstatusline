@@ -7,3 +7,7 @@ Original author: Matthew Breedlove (https://github.com/sirmalloc)
 Official repository: https://github.com/sirmalloc/ccstatusline
 
 This fork is maintained for personal use and experimentation.
+
+Fork notes:
+- Exploring statusline customization for personal Neovim config
+- May diverge from upstream in minor ways (colors, default segments)
