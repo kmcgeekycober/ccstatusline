@@ -11,3 +11,4 @@ This fork is maintained for personal use and experimentation.
 Fork notes:
 - Exploring statusline customization for personal Neovim config
 - May diverge from upstream in minor ways (colors, default segments)
+- Adjusted default separator style from powerline arrows to simple pipes
