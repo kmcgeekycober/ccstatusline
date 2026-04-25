@@ -15,3 +15,4 @@ Fork notes:
 - Disabled the file encoding segment by default (rarely useful in my workflow)
 - Reduced default update interval for git branch segment (less frequent polling)
 - Added truncation for long branch names (>30 chars) to keep statusline compact
+- Disabled the file type segment by default (redundant with my existing config)
