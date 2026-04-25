@@ -14,3 +14,4 @@ Fork notes:
 - Adjusted default separator style from powerline arrows to simple pipes
 - Disabled the file encoding segment by default (rarely useful in my workflow)
 - Reduced default update interval for git branch segment (less frequent polling)
+- Added truncation for long branch names (>30 chars) to keep statusline compact
